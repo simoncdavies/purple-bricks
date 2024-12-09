@@ -1,0 +1,33 @@
+.task-form {
+  margin: 20px;
+}
+
+.task-form__field {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.task-form__label {
+  width: 20%;
+  font-weight: 700;
+}
+
+.task-form__input {
+  width: 80%;
+}
+
+.task-form__textarea {
+  width: 80%;
+}
+
+.task-form__select {
+  width: auto;
+}
+
+.task-form__btn {
+  margin-left: 20%;
+}
+
+.task-form__btn--submit {
+  background-color: #090;
+}
